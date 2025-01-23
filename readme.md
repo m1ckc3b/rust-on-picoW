@@ -14,7 +14,7 @@ $ cargo generate 9names/embassy-rp-quickstart
 
 ## Projects
 - [Project_0](./project_0/) - Blinky
-- Project_1 - Blinky with pushbutton
+- [Project_1](./project_1/) - Blinky with pushbutton
 - Project_2 - Analog Inputs (ADC)
 - Project_3 - PWM Analog Output
 - Project_4 - PIR Motion Sensor
