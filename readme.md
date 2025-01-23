@@ -1,7 +1,9 @@
 # Rust on Raspberry Pi Pico W
 
+The heart of our Raspberry Pi Pico W is a dual-core 32-bit ARM Cortex-M0+ microcontroller.
+
 ## Projects
-- Blinky
+- [Project_0](./project_0/) Blinky
 - Blinky with pushbutton
 - Analog Inputs (ADC)
 - PWM Analog Output

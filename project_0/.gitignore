@@ -1,0 +1,16 @@
+**/*.rs.bk
+.#*
+.gdb_history
+Cargo.lock
+target/
+cargo-generate
+cargo-generate.toml
+
+# editor files
+.vscode/*
+.vscode/rp2040.svd
+!.vscode/*.md
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+!.vscode/settings.json
