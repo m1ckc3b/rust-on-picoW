@@ -80,3 +80,10 @@ debug-assertions = false
 incremental = false
 lto = 'fat'
 opt-level = 's'
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+test = false
+doctest = false
+bench = false

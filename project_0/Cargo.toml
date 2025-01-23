@@ -67,3 +67,10 @@ debug-assertions = false
 incremental = false
 lto = 'fat'
 opt-level = 3
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+test = false
+doctest = false
+bench = false
